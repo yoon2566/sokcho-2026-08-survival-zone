@@ -1,0 +1,13 @@
+{
+  "player": "assets/player.glb",
+  "rifle": "assets/rifle.glb",
+  "throwable": "assets/throwable.glb",
+  "low": "assets/low.glb",
+  "tall": "assets/tall.glb",
+  "corner": "assets/corner.glb",
+  "crate": "assets/crate.glb",
+  "roof": "assets/roof.glb",
+  "stairs": "assets/stairs.glb",
+  "door": "assets/door.glb",
+  "design": "assets/design.png"
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 8,
+  "sourceStudentNumber": 8,
+  "status": "assets_only_not_integrated",
+  "warning": "게임 조작, 외형 변형, 충돌 및 재시작은 실제 게임에 연결한 후 확인해야 합니다.",
+  "models": [
+    {
+      "file": "player_hunyuan_game.glb",
+      "bytes": 4990504,
+      "sha256": "1df346a9415781b6fb349fc3aaa6d51119ec2765f1989eb91ca85df11e51fbe8",
+      "skins": 1,
+      "joints": 28,
+      "animations": [
+        "Aim",
+        "Death",
+        "Hit",
+        "Idle",
+        "Run",
+        "Shoot",
+        "Throw",
+        "Walk"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
