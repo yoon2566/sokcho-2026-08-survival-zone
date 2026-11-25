@@ -1,5 +1,5 @@
 {
-  "player": "assets/player.glb",
+  "player": "rigging-models/player_hunyuan_game.glb",
   "rifle": "assets/rifle.glb",
   "throwable": "assets/throwable.glb",
   "low": "assets/low.glb",
